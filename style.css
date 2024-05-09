@@ -844,6 +844,7 @@ ul.topnav .icon{
     height: 52px;
     font-size: 16px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .main-content .fifth-block > h1{
@@ -868,6 +869,7 @@ ul.topnav .icon{
 	background: #57E1FF;
 	width: 201px;
 	height: 44px;
+	cursor: pointer;
 	color: #000000;
 	font-weight: bold;
 	font-size: 24px;
